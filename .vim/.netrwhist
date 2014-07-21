@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/marekkotewicz/tipping/node_modules'
+let g:netrw_dirhist_2='/Users/marekkotewicz/tipping/app'
+let g:netrw_dirhist_3='/Users/marekkotewicz/tipping/public/service'
+let g:netrw_dirhist_4='/Users/marekkotewicz/Downloads/formage-master/example/classic/models'
+let g:netrw_dirhist_5='/Users/marekkotewicz/xplatform/devmeetings-slidesapp/tools/platform_admin/models'
+let g:netrw_dirhist_6='/Users/marekkotewicz/xplatform/devmeetings-slidesapp/tools/platform_admin/data'
+let g:netrw_dirhist_7='/Users/marekkotewicz/eris/app'
+let g:netrw_dirhist_8='/Users/marekkotewicz/ShareIT/.git'
